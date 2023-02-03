@@ -1,0 +1,2 @@
+class ConnectionTest < ApplicationRecord
+end
