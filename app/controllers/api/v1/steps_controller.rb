@@ -1,4 +1,4 @@
-lass Api::V1::ConnectionTestsController < ApplicationController
+class Api::V1::StepsController < ApplicationController
 
 def index
     @steps = Step.all
